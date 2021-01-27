@@ -1,0 +1,1 @@
+select * from DFW_WAZE_shap_file where county = 'Collin' and event_type = 'traffic jam' and create_tim between '2018-12-27 07:00:00' and '2018-12-27 15:00:00';
